@@ -6,10 +6,19 @@
 
     "imageURL": "https://www.dropbox.com/s/igv6vyr3ks66hs5/1651610187791.jpg?dl=1",
 
-    "Title": "Features of this app",
+    "Title": "သတင်းထူးသတင်းဦးများ",
 
-    "Message": "send message without firebase\nsend message with image or without image\nZoom in with animation like telegram\nIdentify links such as: https://t.me/snegflake"
+    "Message": "ကိုရီးယားမှာ အင်္ကျီတောင် မဝတ်နိုင်တော့ဘူးဆိုတဲ့သတင်း \n ပိုသိချင်ရင်: https://t.me/snegflake"
+  },
+  
+  {
+    "image": "false",
 
+    "imageURL": "",
+
+    "Title": "",
+
+    "Message": "နောက်တပုဒ်"
   }
  
 ]
