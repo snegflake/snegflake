@@ -2,18 +2,18 @@
 
   "Visibility": "VISIBLE",
 
-  "Title": "စမ်းသပ်ခေါင်းစဥ်",
+  "Title": "စမ်းသပ်ခြင်း",
 
-  "Description": "Test Message",
+  "Description": "ဖော်ပြချက်များမှာ....",
 
-  "MainTextButton": "Update",
+  "MainTextButton": "မြှင့်တင်ရန်",
 
   "Cancelable": "true",
 
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "နောက်မှ",
 
   "DownloadLink": "https://www.mediafire.com/download/meg8i0wtpqneyf5",
 
-  "Version": "1.2"
+  "Version": "1.3"
 
 }
