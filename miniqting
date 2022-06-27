@@ -1,20 +1,20 @@
 {
 
-  "Visibility": "INVISIBLE",
+  "Visibility": "VISIBLE",
 
-  "Title": "gfgfffgfgfgfgfgfgfgfgfgfgfgfgfgfgfg",
+  "Title": "ဗားရှင်းအသစ်",
 
-  "Description": "hghghghghghjghghghghghgghghjghghjghjghjghjg",
+  "Description": "- ဒီဇိုင်းအသစ် \n - အမှားပြင်ဆင်ချက်များ \n - တမူထူးခြားမှု",
 
-  "MainTextButton": "Update",
+  "MainTextButton": "ဟုတ်ပါပြီ",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "မတင်ဘူး။",
 
   "DownloadLink": "https://www.xnxx.com/search/myanmar?top",
 
-  "Version": "2.1"
+  "Version": "1.9"
 
 }
 
