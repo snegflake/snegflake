@@ -9,31 +9,31 @@
   {
     "condition": "true",
     "title": "KST2",
-    "url": "https://www.dropbox.com/s/q3lp8mha0hp9ope/1.ovpn?dl=1",
+    "url": "https://www.dropbox.com/s/pm5vxfthx1a8qh6/udp_1439.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
   },
   {
     "condition": "true",
     "title": "KST3",
-    "url": "https://www.dropbox.com/s/rzfy4t2fwx0fkhg/udp_1500.ovpn?dl=1",
+    "url": "https://www.dropbox.com/s/ptce4jfv6cwb07a/udp_1414.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/vfafrum9ub27llt/kr.png?dl=1"
   },
  {
     "condition": "true",
     "title": "KST4",
-    "url": "https://www.dropbox.com/s/3oz2rxruqeqjfap/udp_1494.ovpn?dl=1",
+    "url": "https://www.dropbox.com/s/rifeevvmvtunxhy/tcp_1423.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/qiezeggdltq1mzs/sg.png?dl=1"
   },
   {
     "condition": "true",
     "title": "KST5",
-    "url": "https://www.dropbox.com/s/pxly3dic4wg0uz9/3.ovpn?dl=1",
+    "url": "https://www.dropbox.com/s/2cdhoe46gg91zl4/udp_1413.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/k137v2ilwodjikl/sr.png?dl=1"
   },
   {
     "condition": "true",
     "title": "KST6",
-    "url": "https://www.dropbox.com/s/6y5t1dt6qjkaguu/5.ovpn?dl=1",
+    "url": "https://www.dropbox.com/s/j6f23enrkeuzd2d/udp_1402.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   }
   
