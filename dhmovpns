@@ -35,4 +35,41 @@
     "url": "https://www.dropbox.com/s/9d57tp29wqguxd0/6.ovpn?dl=1",
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   }
+  {
+    "condition": "true",
+    "title": "1227",
+    "url": "https://www.dropbox.com/s/i3qcu77rfphxo1j/udp_1227.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+  {
+    "condition": "true",
+    "title": "1771",
+    "url": "https://www.dropbox.com/s/wonr4308d4yf5ne/udp_1771.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
+  },
+  {
+    "condition": "true",
+    "title": "1743",
+    "url": "https://www.dropbox.com/s/vfnfj1bsqwmfcz9/udp_1743.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/vfafrum9ub27llt/kr.png?dl=1"
+  },
+ {
+    "condition": "true",
+    "title": "1690",
+    "url": "https://www.dropbox.com/s/srpz4sctpa4t6pg/udp_1690.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/qiezeggdltq1mzs/sg.png?dl=1"
+  },
+  {
+    "condition": "true",
+    "title": "1465",
+    "url": "https://www.dropbox.com/s/devplx1i4upznf8/udp_1465.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/k137v2ilwodjikl/sr.png?dl=1"
+  },
+  {
+    "condition": "true",
+    "title": "1482",
+    "url": "https://www.dropbox.com/s/zo1z7dubdihxja2/udp_1482.ovpn?dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  }
+
 ]
