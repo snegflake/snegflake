@@ -1,32 +1,38 @@
 [
 {
     "condition": "true",
-    "title": "KSTGH1",
-    "url": "https://www.dropbox.com/s/pm5vxfthx1a8qh6/udp_1439.ovpn?dl=1",
+    "title": "KSTGH1195",
+    "url": "https://drive.google.com/uc?export=download&id=1W8Adi72mFGj1JFxNSSPV1gCUwdEM3yAe",
     "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
   },
   {
     "condition": "true",
-    "title": "KSTGH2",
-    "url": "https://www.dropbox.com/s/ptce4jfv6cwb07a/udp_1414.ovpn?dl=1",
+    "title": "KSTGH1255",
+    "url": "https://drive.google.com/uc?export=download&id=1W8W9Pc4LTsQ0KFkWoNOuXjZ8L3HruxZQ",
     "country_icon": "https://www.dropbox.com/s/vfafrum9ub27llt/kr.png?dl=1"
   },
  {
     "condition": "true",
-    "title": "KSTGH3",
-    "url": "https://www.dropbox.com/s/rifeevvmvtunxhy/tcp_1423.ovpn?dl=1",
+    "title": "KSTGH1275",
+    "url": "https://drive.google.com/uc?export=download&id=1WBLo1lAXYVY94OOa8MWTJe3capECVttf",
     "country_icon": "https://www.dropbox.com/s/qiezeggdltq1mzs/sg.png?dl=1"
   },
   {
     "condition": "true",
-    "title": "KSTGH4",
-    "url": "https://www.dropbox.com/s/2cdhoe46gg91zl4/udp_1413.ovpn?dl=1",
+    "title": "KSTGH1412",
+    "url": "https://drive.google.com/uc?export=download&id=1WDHC3o2xMbomAC-uYE1WwzUb5m8BwKzp",
     "country_icon": "https://www.dropbox.com/s/k137v2ilwodjikl/sr.png?dl=1"
   },
   {
     "condition": "true",
-    "title": "KSTGH5",
-    "url": "https://www.dropbox.com/s/j6f23enrkeuzd2d/udp_1402.ovpn?dl=1",
+    "title": "KSTGH1497",
+    "url": "https://drive.google.com/uc?export=download&id=1WDn1wg-rIFmsqZJ-cHrqCOzrFa-jHwDD",
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+    "condition": "true",
+    "title": "KSTGH1458",
+    "url": "https://drive.google.com/uc?export=download&id=1WGnrJ9LcQiCLDo0DMcuyyj7xW2JC4c-z",
+    "country_icon": "https://www.dropbox.com/s/4yawflr3n66vpb5/Dgf.png?dl=1"
   }
 ]
