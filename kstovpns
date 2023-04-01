@@ -2,14 +2,14 @@
 {
     "condition": "true",
     "title": "KSTGH1",
-    "url": "https://drive.google.com/uc?export=download&id=1WYR5kdlaCUJzy2ruJRHAqVo0zYFYOWA4",
+    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=184.22.167.150&port=1703&hid=18646463&/vpngate_184.22.167.150_udp_1703.ovpn",
     "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
   },
 {
     "condition": "true",
     "title": "KSTGH2",
-    "url": "https://drive.google.com/uc?export=download&id=1WZbjyyHqxAkADFZwxrpHFG5dognUVW5X",
-    "country_icon": "https://www.dropbox.com/s/ea0nqmxhx3rvgwp/kh.png?dl=1"
+    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=49.228.124.39&port=1666&hid=19644082&/vpngate_49.228.124.39_udp_1666.ovpn",
+    "country_icon": "https://drive.google.com/uc?export=download&id=1fcNvwW-acmBfeV8BtSljCo53wnLOLaZV"
 
   }
 ]
