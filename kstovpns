@@ -2,43 +2,43 @@
 {
     "condition": "true",
     "title": "KSTGH1",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=184.22.167.150&port=1703&hid=18646463&/vpngate_184.22.167.150_udp_1703.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1g8Nd7TAN_Y78QGpLwpqO5Ll69TsXkmiY",
     "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
   },
 {
     "condition": "true",
     "title": "KSTGH2",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=49.228.124.39&port=1666&hid=19644082&/vpngate_49.228.124.39_udp_1666.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gAp-VrjMCYNGomGVxZN6BNy92fHK8q1E",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fcNvwW-acmBfeV8BtSljCo53wnLOLaZV"
 },
  {
 "condition": "true",
     "title": "KSTGH3",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=49.228.98.51&port=1823&hid=19639686&/vpngate_49.228.98.51_udp_1823.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gF4ZtliOv0lXOIJy03rC1eywKpkqD2GD",
     "country_icon": "https://drive.google.com/uc?export=download&id=1feQOOEGud9G-CUJq4GMkZA2OHYfvc-PS"
   },
 {
    "condition": "true",
     "title": "KSTGH4",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=220.124.179.33&port=1195&hid=19908256&/vpngate_220.124.179.33_udp_1195.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gPOcQ3OZh2h91CxmAlMsnu-brx-DkmGT",
     "country_icon": "https://drive.google.com/uc?export=download&id=1ffqvAl039gwhGFJd_94drnVo_8YdhvEa"
   },
 {
    "condition": "true",
     "title": "KSTGH5",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=59.9.145.241&port=1195&hid=3290957&/vpngate_59.9.145.241_udp_1195.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gIegryiBf4HP-XsSFR-UPkjUJmxESstf",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fhDah4wmPNpY7gxfhA-XUvyBCARcBs7p"
   },
 {
    "condition": "true",
     "title": "KSTGH6",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=1.241.154.62&port=1792&hid=19551781&/vpngate_1.241.154.62_udp_1792.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gPG4GMKmJmpdacVeguw1Fgs2Jbu659kL",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fieb0MOHVty8g7VBYX5hg-WmfFvUhG7W"
   },
 {
    "condition": "true",
     "title": "KSTGH7",
-    "url": "https://www.vpngate.net/common/openvpn_download.aspx?sid=1680372542645&udp=1&host=221.159.29.20&port=1195&hid=18331766&/vpngate_221.159.29.20_udp_1195.ovpn",
+    "url": "https://drive.google.com/uc?export=download&id=1gPG4GMKmJmpdacVeguw1Fgs2Jbu659kL",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fvc0rl1WLfC0-LCQ6R5fQFpzEfQkYVQV"
   }
 ]
