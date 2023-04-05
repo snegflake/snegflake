@@ -1,44 +1,32 @@
 [
 {
     "condition": "true",
-    "title": "KSTGH1",
-    "url": "https://drive.google.com/uc?export=download&id=1g8Nd7TAN_Y78QGpLwpqO5Ll69TsXkmiY",
+    "title": "KSTGP1",
+    "url": "https://drive.google.com/uc?export=download&id=1hI8Ri2ESqptsVEO39nTpt9o6DkWCYVAf",
     "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
   },
 {
     "condition": "true",
-    "title": "KSTGH2",
-    "url": "https://drive.google.com/uc?export=download&id=1gAp-VrjMCYNGomGVxZN6BNy92fHK8q1E",
+    "title": "KSTGP2",
+    "url": "https://drive.google.com/uc?export=download&id=1hJP4m9QmjMXyIUmFkJf4g-usNBUbj_yv",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fcNvwW-acmBfeV8BtSljCo53wnLOLaZV"
 },
  {
 "condition": "true",
-    "title": "KSTGH3",
-    "url": "https://drive.google.com/uc?export=download&id=1gF4ZtliOv0lXOIJy03rC1eywKpkqD2GD",
+    "title": "KSTGP3",
+    "url": "https://drive.google.com/uc?export=download&id=1hCBjB8PSbh2DGVGdPDz8qUcdQCLx-TM5",
     "country_icon": "https://drive.google.com/uc?export=download&id=1feQOOEGud9G-CUJq4GMkZA2OHYfvc-PS"
   },
 {
    "condition": "true",
-    "title": "KSTGH4",
-    "url": "https://drive.google.com/uc?export=download&id=1gPOcQ3OZh2h91CxmAlMsnu-brx-DkmGT",
+    "title": "KSTGP4",
+    "url": "https://drive.google.com/uc?export=download&id=1hEOQDQ9yrFdzCx0E4ynwecMrhb1lABgg",
     "country_icon": "https://drive.google.com/uc?export=download&id=1ffqvAl039gwhGFJd_94drnVo_8YdhvEa"
   },
 {
    "condition": "true",
-    "title": "KSTGH5",
-    "url": "https://drive.google.com/uc?export=download&id=1gIegryiBf4HP-XsSFR-UPkjUJmxESstf",
+    "title": "KSTGP5",
+    "url": "https://drive.google.com/uc?export=download&id=1hEYk2fEnBXwKd_2ZZarPcTLi3WELiiC7",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fhDah4wmPNpY7gxfhA-XUvyBCARcBs7p"
-  },
-{
-   "condition": "true",
-    "title": "KSTGH6",
-    "url": "https://drive.google.com/uc?export=download&id=1gPG4GMKmJmpdacVeguw1Fgs2Jbu659kL",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1fieb0MOHVty8g7VBYX5hg-WmfFvUhG7W"
-  },
-{
-   "condition": "true",
-    "title": "KSTGH7",
-    "url": "https://drive.google.com/uc?export=download&id=1gPG4GMKmJmpdacVeguw1Fgs2Jbu659kL",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1fvc0rl1WLfC0-LCQ6R5fQFpzEfQkYVQV"
   }
 ]
