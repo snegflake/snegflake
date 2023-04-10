@@ -16,6 +16,11 @@
 "live_url": "https://pp-live.b-cdn.net/bcdn_token=A9bSko3CE7FqWP4PQyziF0dOgbwR9HdOCfAc28xnrKU&expires=1681163580&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
 "image": "",
 "name": "MRTV-4 HD"
+},
+{
+"live_url": "https://pp-live.b-cdn.net/bcdn_token=9kTsyBQXgn9BuSooZtgVd-m7RWXRIcQroYFWfwgJ-7s&expires=1681163965&token_path=%2FLiveApp%2F/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+"name": "မဟာဗောဓိ",
+"image": ""
 }
 
 ]
