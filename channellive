@@ -7,10 +7,9 @@
 },
 
 {
-"live_url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/2977158/playlist.m3u8?terminate=false&sid=NfW7Oe3IsoKQGMkwz0F6Bpir&deviceDNT=0&deviceLat=51.4964&deviceLon=-0.1224&deviceModel=Opera&deviceVersion=65.0.3467.78&includeExtendedEvents=false&appName=web&deviceId=saOuNL5YkCBcSwAidQlVK1xU&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&userId=A2kGlx1EO7uSD0YLnTmyzB8b&advertisingId=&architecture=&buildVersion=&clientTime=&marketingRegion=GB&profilesFromStream=true&startingOffset=0",
+"live_url": "https://ch3-33-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1649084748&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=-S_dstfj8HhDbd4Nhb5fCw",
 "image": "https://www.xhzb.tw/uploads/allimg/21/1-2104151IH40-L.jpg",
-"name": "MTV Biggest Pop"
-},
+"name": "Thai Channel 3",
 
 {
 "live_url": "https://pp-live.b-cdn.net/bcdn_token=A9bSko3CE7FqWP4PQyziF0dOgbwR9HdOCfAc28xnrKU&expires=1681163580&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
