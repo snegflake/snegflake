@@ -1,5 +1,34 @@
 [
 {
+"live_url": "http://203.81.84.130/hls/mwd/index.m3u8",
+"image": "",
+"name": "MWD"
+},
+
+{
+"live_url": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
+"image": "",
+"name": "MWD Movie"
+},
+
+{
+"live_url": "http://moviesphere-roku.amagi.tv/playlist720lp_4640573.ts",
+"name": "moviesphere",
+"image": ""
+},
+
+{
+"live_url": "http://siloh-sp.plutotv.net/404_Pluto_TV_OandO/clip/607efb353bbc1b001aee5542_PlutoTV_SamsungTV_Filler_30sec/720p/20220407_150850/hls/hls_1000-00001.ts",
+"image": "",
+"name": "Samsung TV"
+},
+
+{
+"live_url": "http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/media-u1tcudas5_b4000000_t64MTA4MHA=_1093370.ts",
+"image": "",
+"name": "Discovery"
+},
+{
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w2075347101.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjI3IEFNJmhhc2hfdmFsdWU9NU1Qdmw2L1VidlpQeDJmZ2MvbldaQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
 "name": "MRTV HD",
 "image": ""
