@@ -49,7 +49,17 @@
 "name": "Mahar HD",
 "live_url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
 },
+{
+"live_url": "http://203.81.84.130/hls/mwd_document/93638.ts",
+"image": "https://i.pinimg.com/736x/ee/11/e5/ee11e5f228ecebfffd8c80c812f79814.jpg",
+"name": "MWD Document"
+},
 
+{
+"live_url": "http://203.81.84.130/hls/mwd_family/index.m3u8",
+"name": "MWD Family",
+"image": "https://i.pinimg.com/736x/25/f2/9d/25f29da673af24fb2878189ff9c35373--bagan-your-shot.jpg"
+},
 {
 "live_url": "https://ch3-33-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1649084748&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=-S_dstfj8HhDbd4Nhb5fCw",
 "image": "https://i.pinimg.com/736x/f6/7a/59/f67a599bd9183f438722f6d6e77cddfa.jpg",
@@ -59,6 +69,12 @@
 "live_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
 "image": "https://i.pinimg.com/736x/6e/ed/b9/6eedb92e3e75aa00194d0a1390acf777.jpg",
 "name": "Channel K"
+},
+
+{
+"live_url": "http://203.81.84.130/hls/mwd_variety/79.ts",
+"name": "MWD Variety",
+"image": "https://i.pinimg.com/736x/9f/42/4c/9f424cb83358e7c58bb59a851f21fdd3.jpg"
 },
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1477445895.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9MGZhSDNCY082V0RkTU9ObmFhazBxZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNQ%3D%3D",
@@ -71,6 +87,7 @@
 "image": "https://i.pinimg.com/736x/7d/e7/f0/7de7f0edf47826c4983c0ed4082dd4a0--one-thousand-jesus-loves.jpg",
 "name": "mitv"
 },
+
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist_w1429381515.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDE6MzA6MzEgUE0maGFzaF92YWx1ZT05c3NJVUhtMGJIM0M3cG1OTVk3SU53PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTEx",
 "image": "https://i.pinimg.com/736x/b3/1d/63/b31d63392527a7e0492569d91bca5037--artist-at-work-ceramic-artists.jpg",
