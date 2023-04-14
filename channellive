@@ -17,9 +17,9 @@
 "name": "Thai Channel 3"},
 
 {
-"live_url": "http://95.107.132.106/out/u/646_3.m3u8",
-"image": "",
-"name": "Vizion Plus"
+"live_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+"image": "https://dmwnucuzzd3uc.cloudfront.net/image/o9SXyF4kPWv_4nhtaCnNLKCh5ySN9sCJGkG2T_r47dp_wW5L7axKcHwndLLbnxzcxyz647rDhr8MxhzR_kz_Yg==",
+"name": "Channel K"
 },
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9MGZhSDNCY082V0RkTU9ObmFhazBxZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNQ==",
