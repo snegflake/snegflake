@@ -1,6 +1,11 @@
 [
 
 {
+"image": "",
+"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1125334125.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMyOjQyIEFNJmhhc2hfdmFsdWU9ZlJubU9JNlIybC83WUFMTW93VnY2Zz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMg%3D%3D",
+"name": "5 Plus"},
+
+{
 "image": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1",
 "name": "Mahar HD",
 "live_url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
