@@ -28,9 +28,9 @@
 },
 
 {
-"live_url": "https://edge16.vedge.infomaniak.com/livecast/ik:tvm3/chunklist_w750349074.m3u8?spark=e7bbd2b3-08b2-433a-abd4-41df25422552&token=",
-"image": "",
-"name": "M3_Live"
+"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1500512676.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9ZU03bjFMaHNlTzhGSWs5QXFoeHBtQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
+"image": "https://www.myanmaritv.com/sites/all/themes/zino_theme/logo.png",
+"name": "mitv"
 },
 {
 "live_url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
