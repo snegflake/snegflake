@@ -61,9 +61,9 @@
 "image": "https://i.pinimg.com/736x/25/f2/9d/25f29da673af24fb2878189ff9c35373--bagan-your-shot.jpg"
 },
 {
-"live_url": "https://ch3-33-web.cdn.byteark.com/live/playlist_240p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1649084748&x_ark_max_resolution=720p&x_ark_path_prefix=%2Flive%2F&x_ark_signature=-S_dstfj8HhDbd4Nhb5fCw",
+"live_url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
 "image": "https://i.pinimg.com/736x/f6/7a/59/f67a599bd9183f438722f6d6e77cddfa.jpg",
-"name": "Thai Channel 3"},
+"name": "National Geo"},
 
 {
 "live_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
