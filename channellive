@@ -1,5 +1,10 @@
 [
 {
+"live_url": "https://video-weaver.bkk02.hls.ttvnw.net/v1/playlist/Co4Fkjnx7duv90mY15cTEfvrNKjliAYQWabUU-4kGyk3z7tsFwvysm0hItsUXpfaZjS7jfQVLt2aDaTsECQqi3gN7MeP9q0byKDQlkJ_-6EVYUnee1C8JVLmdJabjDeuqpd6iF111YMb4IFnKiEd4yJkfHA_pzLwbqdljhHF6lYCJ0fsT4PU1njE9QONVNZs-mfuFzP2MVfHKFP8L7zGWk37qIHuVp6vDzCIa1XhOnezEZBHEfrsigscJ4hYUnsPQXZA_Og7bSHE3khKglPSdkYc5t7OPFPls1m8YVwsYmdfF2q4X0vg-hHJFFGMsyAO0-cu68bL90ZMwXxY1hdDARD9mqBiTuEmwQ-3i_okIVTRtPDuPEJTybroSZea30tSL0srwrpAAwPjK1w9xnDeXMj9hq2PoSWAZTA9I3bHmpJwYB0IgDKFscD5Sto56aGr4dxtPNOUJQ0G-aN7GsXlgHFslQOB6-UdS1aBTpKos8v50wY7Fj-8VE6Kw9lFMp47FiMixW7wA34J--iVtYRVMQPwUnBMNJvNzfZD_oLK51eEq5_i6uQ7vL372Gc20c7-N0vbE6H72SgaM-VqYbT8kEO4D6CaFRiYpmOuqMbV02ViJAfeG5t551v8reMlI7ZB5TfKris9api2UWMV4Vw_PbFwGb9nDvP_HR3_i6-aOUI1gQjZj-kLz9eqI06w9nwlEXWchMjrlEbzxWoiTcFawbZgRXBTNfb7yQxvn7q46FCXrxxICCp6xrfmekAQFj5hk_OYYYb5sNgrABhxHJ_Q_qg5p5t65-r7qdt9EQUECUBNireSGlTq5rFQa_BikfdGPT1hl6PprRKFBPTXjsHs8Ug-msKjyHbLJPGzclypys4FGgxRXBMAumVMq_60OEMgASoJdXMtd2VzdC0yMKoG.m3u8",
+"name": "MRTV Farmers",
+"image": "https://i.pinimg.com/736x/1c/d8/cd/1cd8cdb42e46859d509d364f29349f27--amarapura-mandalay.jpg"
+},
+{
 "live_url": "http://203.81.84.130/hls/mwd/index.m3u8",
 "image": "https://i.pinimg.com/736x/78/41/e4/7841e49282e48d65c68563dd6db21710.jpg",
 "name": "MWD"
