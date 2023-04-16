@@ -2,10 +2,12 @@
 {
 "live_url": "https://video-weaver.bkk02.hls.ttvnw.net/v1/playlist/Co4Fkjnx7duv90mY15cTEfvrNKjliAYQWabUU-4kGyk3z7tsFwvysm0hItsUXpfaZjS7jfQVLt2aDaTsECQqi3gN7MeP9q0byKDQlkJ_-6EVYUnee1C8JVLmdJabjDeuqpd6iF111YMb4IFnKiEd4yJkfHA_pzLwbqdljhHF6lYCJ0fsT4PU1njE9QONVNZs-mfuFzP2MVfHKFP8L7zGWk37qIHuVp6vDzCIa1XhOnezEZBHEfrsigscJ4hYUnsPQXZA_Og7bSHE3khKglPSdkYc5t7OPFPls1m8YVwsYmdfF2q4X0vg-hHJFFGMsyAO0-cu68bL90ZMwXxY1hdDARD9mqBiTuEmwQ-3i_okIVTRtPDuPEJTybroSZea30tSL0srwrpAAwPjK1w9xnDeXMj9hq2PoSWAZTA9I3bHmpJwYB0IgDKFscD5Sto56aGr4dxtPNOUJQ0G-aN7GsXlgHFslQOB6-UdS1aBTpKos8v50wY7Fj-8VE6Kw9lFMp47FiMixW7wA34J--iVtYRVMQPwUnBMNJvNzfZD_oLK51eEq5_i6uQ7vL372Gc20c7-N0vbE6H72SgaM-VqYbT8kEO4D6CaFRiYpmOuqMbV02ViJAfeG5t551v8reMlI7ZB5TfKris9api2UWMV4Vw_PbFwGb9nDvP_HR3_i6-aOUI1gQjZj-kLz9eqI06w9nwlEXWchMjrlEbzxWoiTcFawbZgRXBTNfb7yQxvn7q46FCXrxxICCp6xrfmekAQFj5hk_OYYYb5sNgrABhxHJ_Q_qg5p5t65-r7qdt9EQUECUBNireSGlTq5rFQa_BikfdGPT1hl6PprRKFBPTXjsHs8Ug-msKjyHbLJPGzclypys4FGgxRXBMAumVMq_60OEMgASoJdXMtd2VzdC0yMKoG.m3u8",
 "name": "MRTV Farmers",
+"message": "",
 "image": "https://i.pinimg.com/736x/1c/d8/cd/1cd8cdb42e46859d509d364f29349f27--amarapura-mandalay.jpg"
 },
 {
 "live_url": "http://203.81.84.130/hls/mwd/index.m3u8",
+"message": "",
 "image": "https://i.pinimg.com/736x/78/41/e4/7841e49282e48d65c68563dd6db21710.jpg",
 "name": "MWD"
 },
@@ -13,29 +15,34 @@
 {
 "live_url": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
 "image": "https://i.pinimg.com/736x/8d/c7/79/8dc779b782d3f51a8b12fef24c44b081--antigua-spreads.jpg",
+"message": "",
 "name": "MWD Movie"
 },
 
 {
 "live_url": "http://183.89.246.119:8881/play/a07y/index.m3u8",
 "name": "Channel 9",
+"message": "Vlc player နဲ့ကြည့်ရန်",
 "image": "https://i.pinimg.com/736x/4d/95/6d/4d956de972e38d03b31c9162875d39fc--southeast-asia-rivers.jpg"
 },
 
 {
 "live_url": "http://183.89.246.119:8881/play/a081/index.m3u8",
+"message": "Vlc player နဲ့ကြည့်ရန်",
 "image": "https://i.pinimg.com/736x/dc/fc/c5/dcfcc5bf10e550abd6a226f6ca68302a--elephant-design-elephants.jpg",
 "name": "YTV"
 },
 
 {
 "live_url": "http://183.89.246.119:8881/play/a082/index.m3u8",
+"message": "Vlc player နဲ့ကြည့်ရန်",
 "image": "https://i.pinimg.com/736x/38/25/04/38250482fc52aff4c4af245676cde201--inle-lake-rowing.jpg",
 "name": "FortuneTV"
 },
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w2075347101.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjI3IEFNJmhhc2hfdmFsdWU9NU1Qdmw2L1VidlpQeDJmZ2MvbldaQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
 "name": "MRTV HD",
+"message": "",
 "image": "https://i.pinimg.com/736x/a8/1b/e6/a81be6eee90abe2b51bf517f93cdccb0--yangon-myanmar-burma.jpg"
 },
 {
@@ -46,16 +53,19 @@
 
 {
 "image": "https://i.pinimg.com/736x/31/5c/ed/315ced200327f4bc1c077157d1c37ca8.jpg",
+"message": "",
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1125334125.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMyOjQyIEFNJmhhc2hfdmFsdWU9ZlJubU9JNlIybC83WUFMTW93VnY2Zz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMg%3D%3D",
 "name": "5 Plus"},
 
 {
 "image": "https://i.pinimg.com/736x/97/7e/a5/977ea50a5bcbd438d18458ec6f249135.jpg",
 "name": "Mahar HD",
+"message": "",
 "live_url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
 },
 {
 "live_url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+"message": "",
 "image": "https://i.pinimg.com/736x/ee/11/e5/ee11e5f228ecebfffd8c80c812f79814.jpg",
 "name": "MWD Document"
 },
@@ -63,44 +73,47 @@
 {
 "live_url": "http://203.81.84.130/hls/mwd_family/index.m3u8",
 "name": "MWD Family",
+"message": "",
 "image": "https://i.pinimg.com/736x/25/f2/9d/25f29da673af24fb2878189ff9c35373--bagan-your-shot.jpg"
 },
 {
 "live_url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+"message": "",
 "image": "https://i.pinimg.com/736x/f6/7a/59/f67a599bd9183f438722f6d6e77cddfa.jpg",
 "name": "National Geo"},
 
 {
 "live_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+"message": "",
 "image": "https://i.pinimg.com/736x/6e/ed/b9/6eedb92e3e75aa00194d0a1390acf777.jpg",
 "name": "Channel K"
 },
 
 {
 "live_url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+"message": "",
 "name": "MWD Variety",
 "image": "https://i.pinimg.com/736x/9f/42/4c/9f424cb83358e7c58bb59a851f21fdd3.jpg"
 },
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1477445895.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9MGZhSDNCY082V0RkTU9ObmFhazBxZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNQ%3D%3D",
 "name": "Channel ME",
+"message": "",
 "image": "https://i.pinimg.com/736x/00/83/94/00839452de9ef1391fdc82dff1b0ce0d.jpg"
 },
 
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1500512676.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9ZU03bjFMaHNlTzhGSWs5QXFoeHBtQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
+"message": "",
 "image": "https://i.pinimg.com/736x/7d/e7/f0/7de7f0edf47826c4983c0ed4082dd4a0--one-thousand-jesus-loves.jpg",
 "name": "mitv"
 },
 
 {
 "live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist_w1429381515.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDE6MzA6MzEgUE0maGFzaF92YWx1ZT05c3NJVUhtMGJIM0M3cG1OTVk3SU53PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTEx",
+"message": "",
 "image": "https://i.pinimg.com/736x/b3/1d/63/b31d63392527a7e0492569d91bca5037--artist-at-work-ceramic-artists.jpg",
 "name": "MNTV"
 }
-
-
-
-
 
 ]
