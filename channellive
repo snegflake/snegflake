@@ -13,7 +13,7 @@
 },
 
 {
-"live_url": "http://203.81.84.130/hls/mwd_serie/index.m3u8",
+"live_url": "3zl7mRskZGILlRe2gothvmzBLSiO7P3gwp5W3wBTKkdPhM1KkUdjIknCrvd1jIrh",
 "image": "https://i.pinimg.com/736x/8d/c7/79/8dc779b782d3f51a8b12fef24c44b081--antigua-spreads.jpg",
 "vlc_url": "",
 "name": "MWD Movie"
@@ -40,14 +40,21 @@
 "name": "FortuneTV"
 },
 {
-"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv/chunklist_w2075347101.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjI3IEFNJmhhc2hfdmFsdWU9NU1Qdmw2L1VidlpQeDJmZ2MvbldaQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
+"live_url": "3+QngqrrTwg8i91C9A/hJn/4cLSkwFg0oBlxiA1HTETt3lhRMmwWVEEm2IC82XlbbSfAA0K75VZJ
+ii8dUg0zwHCy9QIXBFuLuOtJcjDXy4YuNhrahAQQvbhs9JjexUTHLo4YhA8LklGQ6icw7VUbe9Mb
+pyE63q90eqLArdoVDpNqX9iAh2tTHulIBtRd/ALuG7/wBDeEsW+aMKGLgizegTRkkV4cfS/RBWsO
+p7Oqz61/I8hmIF5I5yu7TJPTT15iku6TOs6Rqx3Z2i+BAZVKhJ3EZflD18C8LBDWL0GHUfuQzFbL
+qSAgeJpeKVujefcY",
 "name": "MRTV HD",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/a8/1b/e6/a81be6eee90abe2b51bf517f93cdccb0--yangon-myanmar-burma.jpg"
 },
 {
 "vlc_url": "",
-"live_url": "https://pp-live.b-cdn.net/bcdn_token=9uWf-zKtXcyPqTMNo3iYrlTvaoX5r3Bm7X3BirB4EFk&expires=1681477987&token_path=%2FLiveApp%2F/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8",
+"live_url": "9j2jWlKQLZhRo03pc+3IQJhCqzVYpYBmnV6ByOLR8Vji0vb44ovU6/EZVw4oXaqB0s9zafFZdlDQ
+EIygQzLEXYxg3Ep85ZEpUnnl5o+DTk/cbIQ0JnI/OY8kqEY7xakUYwGiFjL1EMBHZrTSluhiAvvv
+3cMpNKtZ2GcDEQsn2BV3OrqmCk580PO1Dx5dl9k227GmlUjR5Ft42nlfE59NnFBBoWKIg5PdiKRX
+S1Wj89Q=",
 "image": "https://i.pinimg.com/736x/c0/70/2c/c0702cd3cdc75e35a751092382bb5f57--festivals-chiang-mai.jpg",
 "name": "MRTV-4 HD"
 },
@@ -55,63 +62,82 @@
 {
 "image": "https://i.pinimg.com/736x/31/5c/ed/315ced200327f4bc1c077157d1c37ca8.jpg",
 "vlc_url": "",
-"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1125334125.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMyOjQyIEFNJmhhc2hfdmFsdWU9ZlJubU9JNlIybC83WUFMTW93VnY2Zz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMg%3D%3D",
+"live_url": "3+QngqrrTwg8i91C9A/hJn/4cLSkwFg0oBlxiA1HTETaOw8Ssg3Fq+JFRsz4blmDwQ2lWXfoCZV0
+sZSSN7k+gisT0wbSYOCE2C7TlD4yPAgQrIUCBvl2UU/bD+FOaH9rWVG5c0/0JY2BxUum98OWCNhp
+R/offeFneo13Ae2/UbbV7dZLs+A+LzIXylMAFLAnrBZ8lYQJLPc3GuweuDL8H5w1iw7/WV9lsZPW
+sYkjB5LzJxtx7H2Mq+ZRtOONuowsK2mKy+2Y64MdXMsnGq9Z0jDXilx0AkRlEM1maFzZoyt/Xv9d
+YWPzqlR3jS62QQbs",
 "name": "5 Plus"},
 
 {
 "image": "https://i.pinimg.com/736x/97/7e/a5/977ea50a5bcbd438d18458ec6f249135.jpg",
 "name": "Mahar HD",
 "vlc_url": "",
-"live_url": "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8"
+"live_url": "nIloU/o4Ba3JX0eF6ZiXWMrspu8NMBauD/sqau7lk+aYrskxhohxqxlpjH7JSrqTJ5hpcMtWQN8W
+nwdo+LVECF3ZOjrateXxEagkkZbi2RU="
 },
 {
-"live_url": "http://203.81.84.130/hls/mwd_document/index.m3u8",
+"live_url": "3zl7mRskZGILlRe2gothvoomaTWucvcL1SIDZ8rp42X34DWoysuFf7BZljP3zy1BkMxWy6kgIHia
+Xilbo3n3GA==",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/ee/11/e5/ee11e5f228ecebfffd8c80c812f79814.jpg",
 "name": "MWD Document"
 },
 
 {
-"live_url": "http://203.81.84.130/hls/mwd_family/index.m3u8",
+"live_url": "3zl7mRskZGILlRe2gothvvn3lVM1XPxL/qpHudOUQI3PXdMtgbyYj4g0g6my1l6r",
 "name": "MWD Family",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/25/f2/9d/25f29da673af24fb2878189ff9c35373--bagan-your-shot.jpg"
 },
 {
-"live_url": "https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8",
+"live_url": "NRV9OoNpSaTuPJtcgE5ZsUwST3O+FwSp8ZA2jNrAdqBEqkld9vnxvhRPn7ZdAww/FFjnXrFhEyuG
+34BhAOavNP+nB5az6pzNa6QSbzhsy0I=",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/f6/7a/59/f67a599bd9183f438722f6d6e77cddfa.jpg",
 "name": "National Geo"},
 
 {
-"live_url": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+"live_url": "VSBBS2gT/wv/zFtw3AU5Uu/wIXJ5ecxesI7SSBT/uwSflQt9wg3kvDXaNkIJt0M2WOC4T6zftL+K
+sW5eBMYeCl3ZOjrateXxEagkkZbi2RU=",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/6e/ed/b9/6eedb92e3e75aa00194d0a1390acf777.jpg",
 "name": "Channel K"
 },
 
 {
-"live_url": "http://203.81.84.130/hls/mwd_variety/index.m3u8",
+"live_url": "3zl7mRskZGILlRe2gothvgSKcaaSkOWXtm/mDBHhMQAGMdAWaIZ5lprsnnqZae3+",
 "vlc_url": "",
 "name": "MWD Variety",
 "image": "https://i.pinimg.com/736x/9f/42/4c/9f424cb83358e7c58bb59a851f21fdd3.jpg"
 },
 {
-"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1477445895.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9MGZhSDNCY082V0RkTU9ObmFhazBxZz09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0yNQ%3D%3D",
+"live_url": "3+QngqrrTwg8i91C9A/hJn/4cLSkwFg0oBlxiA1HTETt3lhRMmwWVEEm2IC82XlbUYvXs6FlibYB
+RQ3pT7f0cGs9/zUw2c2aetE8Eb6Yzh9gvT24cLS4YT29usCBUCEAgxUIQvoJ2nrZBdpwCHyGS3ej
+HCP6a2KgTaI6BYEP6KSXtF9wvww/es8VTy4vKVP2HJHwnEHkY+B3tWuzoOnkFwycNOnfDoKPyPKg
+Up+oHPQ5S0UX+FABnegDPNAFSYOizymaGbvEKl/En7ZGLVLRV3swJmWYHMhGElcVRFvq/F2BnroF
+YCccDAxWxdGaIErA",
 "name": "Channel ME",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/00/83/94/00839452de9ef1391fdc82dff1b0ce0d.jpg"
 },
 
 {
-"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mitv/chunklist_w1500512676.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDExOjMwOjMzIEFNJmhhc2hfdmFsdWU9ZU03bjFMaHNlTzhGSWs5QXFoeHBtQT09JnZhbGlkbWludXRlcz0yNSZzdHJtX2xlbj0xMQ%3D%3D",
+"live_url": "3+QngqrrTwg8i91C9A/hJn/4cLSkwFg0oBlxiA1HTEQEiZAahQ9i3CapYPxoerVCYyILfeIM/ej4
+d340Si5JPMszYJ9/B/N4Kp28K/6AiE8uNhrahAQQvbhs9JjexUTHLo4YhA8LklGQ6icw7VUbe+Hr
+x5lZtVCh+kswgeM0FZlqX9iAh2tTHulIBtRd/ALuSKN9qzCniQTtne2Tea2JvdAM9tGEHlq7rsTA
+5pl6fNJ/I8hmIF5I5yu7TJPTT15iku6TOs6Rqx3Z2i+BAZVKhJ3EZflD18C8LBDWL0GHUfuQzFbL
+qSAgeJpeKVujefcY",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/7d/e7/f0/7de7f0edf47826c4983c0ed4082dd4a0--one-thousand-jesus-loves.jpg",
 "name": "mitv"
 },
 
 {
-"live_url": "https://5a13fe32ef748.streamlock.net/mmplay/mntv/chunklist_w1429381515.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNC8yMDIzIDE6MzA6MzEgUE0maGFzaF92YWx1ZT05c3NJVUhtMGJIM0M3cG1OTVk3SU53PT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTEx",
+"live_url": "3+QngqrrTwg8i91C9A/hJn/4cLSkwFg0oBlxiA1HTETKuoILrDlF/uhnpsKBwqDmI4QKsTm+l76Q
+sMo2VBHGkgye3X1sVj84xtphmz5mi2guNhrahAQQvbhs9JjexUTHLo4YhA8LklGQ6icw7VUbe91t
+Dhw9IFzr1UQ+iETqRtDFwdMCjDQ+YDinmDJ3Tm/xViGTtB+Skn76dQagoVVqgRkONyujjbSB3nUE
+H2mAmUgBoxPL/yoHAlwj9mo8gzui+1FCTm8dph5dzCPfHMcmXctB6aiArZOSoJKTbwnisoQ=",
 "vlc_url": "",
 "image": "https://i.pinimg.com/736x/b3/1d/63/b31d63392527a7e0492569d91bca5037--artist-at-work-ceramic-artists.jpg",
 "name": "MNTV"
