@@ -1,10 +1,10 @@
 {
 
-  "Visibility": "INVISIBLE",
+  "Visibility": "VISIBLE",
 
-  "Title": "စမ်းသပ်ခြင်း",
+  "Title": "Version 1.4",
 
-  "Description": "ဖော်ပြချက်များမှာ....",
+  "Description": "အမှားများပြင်ဆင်ပေးထားပါသည်",
 
   "MainTextButton": "မြှင့်တင်ရန်",
 
@@ -12,7 +12,7 @@
 
   "CancelButtonText": "နောက်မှ",
 
-  "DownloadLink": "https://www.google.com/",
+  "DownloadLink": "https://www.dropbox.com/s/tvv6ad1o5rq2w1o/1.4.apk?dl=1",
 
   "Version": "1.0"
 
