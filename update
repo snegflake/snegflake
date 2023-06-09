@@ -6,11 +6,11 @@
 
   "Description": "အမှားများပြင်ဆင်ပေးထားပါသည်",
 
-  "MainTextButton": "မြှင့်တင်ရန်",
+  "MainTextButton": "Update",
 
   "Cancelable": "false",
 
-  "CancelButtonText": "ထွက်မည်",
+  "CancelButtonText": "Exit",
 
   "DownloadLink": "https://www.dropbox.com/s/tvv6ad1o5rq2w1o/1.4.apk?dl=1",
 
