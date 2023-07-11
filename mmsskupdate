@@ -1,10 +1,10 @@
 {
 
-  "Visibility": "INVISIBLE",
+  "Visibility": "VISIBLE",
 
   "Title": "ပြုပြင်ပြောင်းလဲမှုများ။",
 
-  "Description": "အမှားများပြင်ဆင်ပေးထားပါသည်",
+  "Description": "တချို့အမှားများပြင်ဆင်ပေးထားပါသည်။ လုပ်​ဆောင်စရာအသစ်များပါဝင်လာသည်။",
 
   "MainTextButton": "ရယူမည်",
 
@@ -12,8 +12,8 @@
 
   "CancelButtonText": "ထွက်မည်",
 
-  "DownloadLink": "https://www.dropbox.com/s/tvv6ad1o5rq2w1o/1.4.apk?dl=1",
+  "DownloadLink": "https://www.dropbox.com/s/tvv6ad1o5rq2w1o/1.4.apk?dl=0",
 
-  "Version": "1.2"
+  "Version": "1.4"
 
 }
