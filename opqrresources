@@ -1,4 +1,5 @@
 {
+
 "paiddone":"https://drive.google.com/uc?export=download&id=1BJBF2cJSDJq4DsWpsxJSHRVOPGEsAQCZ",
 
 "eaini1":"https://drive.google.com/uc?export=download&id=1BVCcpSHzNhYvlc63Jb_oVmzpLIvV6Xqr",
@@ -28,13 +29,13 @@
 
 "quizbggif":"https://drive.google.com/uc?export=download&id=1Ca7EXEC4WrPnTc3udQH_ZQItSCSs5Wb4",
 
-"qnalink":"https://raw.githubusercontent.com/snegflake/snegflake/main/mmsskquiz",
+"qnalink":"https://raw.githubusercontent.com/snegflake/snegflake/main/opqrquiz",
 
-"booklink":"https://raw.githubusercontent.com/snegflake/snegflake/main/mmssktxt",
+"booklink":"https://raw.githubusercontent.com/snegflake/snegflake/main/opqrtxt",
 
-"updatelink":"https://raw.githubusercontent.com/snegflake/snegflake/main/mmsskupdate",
+"updatelink":"https://raw.githubusercontent.com/snegflake/snegflake/main/opqrupdate",
 
-"userslink":"https://raw.githubusercontent.com/snegflake/snegflake/main/mmsskusers",
+"userslink":"https://raw.githubusercontent.com/snegflake/snegflake/main/opqrusers",
 
  "QnaMarqueText": "စာအများကြီးဖတ်သူများအတွက် လွယ်ကူပေမယ့် စာမဖတ်မိသူများလည်း ဗဟုသုတရစေချင်လို့ ဖန်တီးပေးထားပါသည်။ ကျေးဇူးတင်ပါသည်။",
 
