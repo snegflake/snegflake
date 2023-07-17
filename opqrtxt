@@ -107,10 +107,10 @@ myo: ဟုတ်ပါ့ ဗျာ အကြမ်းဖက် နှိမ်
 },
 
 {
-"title":"မီဒီယာတိုက်စစ်", "auprofile":"https://drive.google.com/uc?export=download&id=1rzC1_GgemrtbDgNmvUaFAwF-cU4pUKlm", 
+"title":"မိဿရာသီ", "auprofile":"", 
 "vdo_url":"",
- "auname":"ကို​ရွှေမျိုးဝင်း", "aulink":"https://myowinblog.blogspot.com/?m=1&zx=a93e055d6b1609fa", 
- "date":"5/26/2021 02:55:00 AM", 
+ "auname":"သက်နှင်းဆွေ-ပုပ္ပါး", "aulink":"", 
+ "date":"", 
  "book":"မိဿရာသီဖွား
 
 (မည်သည့်နှစ်မဆို မတ်လ ၂၁ရက်မှ ဧပြီလ ၂၀ရက်အတွင်းမွေးဖွားသူများ)
@@ -125,5 +125,5 @@ myo: ဟုတ်ပါ့ ဗျာ အကြမ်းဖက် နှိမ်
 
                          သက်နှင်းဆွေ-ပုပ္ပါး",
  "image":"https://i.pinimg.com/736x/35/68/ec/3568ec900f3f300c31f94e82c73a5cb7.jpg", 
- "paid":"false"}
+ "paid":"true"}
  ]
