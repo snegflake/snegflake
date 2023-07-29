@@ -1,21 +1,29 @@
 {
 "mayarkey":"လာမည်",
 
-"thawkyasu":"",
-"thawkyamo":"",
-"thawkyatu":"",
-"thawkyawe":"",
-"thawkyath":"",
-"thawkyafr":"",
-"thawkyasa":"",
+"buddhasu":"ဗုဒ္ဓတနဂန",
+"buddhamo":"ဗုဒ္ဓတနလ",
+"buddhatu":"ဗုဒ္ဓအဂ",
+"buddhawe":"ဗုဒ္ဓဗဒဟ",
+"buddhath":"ဗုဒ္ဓကသပတ",
+"buddhafr":"ဗုဒ္ဓသက",
+"buddhasa":"ဗုဒ္ဓစန",
 
-"thurzsu":"",
-"thurzmo":"",
-"thurztu":"",
-"thurzwe":"",
-"thurzth":"",
-"thurzfr":"",
-"thurzsa":""
+"thawkyasu":"​သောရီတနဂန",
+"thawkyamo":"သောရီတနလ",
+"thawkyatu":"သောရီအဂ",
+"thawkyawe":"သောရီဗဒဟ",
+"thawkyath":"သောရီကသပတ",
+"thawkyafr":"သောရီသက",
+"thawkyasa":"သောရီစန",
+
+"thurzsu":"သူရဇ္ဇတနဂန",
+"thurzmo":"သူရဇ္ဇတနလ",
+"thurztu":"သူရဇ္ဇအဂ",
+"thurzwe":"သူရဇ္ဇဗဒဟ",
+"thurzth":"သူရဇ္ဇကသပတ",
+"thurzfr":"သူရဇ္ဇသက",
+"thurzsa":"သူရဇ္ဇစန"
 
 
 }
