@@ -1,4 +1,4 @@
-
+[
 {
 "title":"",
 "subtitle":"",
@@ -8,4 +8,6 @@
  "date":"", 
  "book":"", 
  "image":"", 
- "paid":"true"},
+ "paid":"true"
+}
+]
