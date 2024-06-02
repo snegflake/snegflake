@@ -28,5 +28,29 @@
     "title": "KSTGP5",
     "url": "https://www.dropbox.com/scl/fi/krs32lzgh38v77ui9ursc/jps_udp_1195.ovpn?rlkey=622jyu6m25qh3noj939nh6q6h&dl=1",
     "country_icon": "https://drive.google.com/uc?export=download&id=1fhDah4wmPNpY7gxfhA-XUvyBCARcBs7p"
+  },
+{
+   "condition": "true",
+    "title": "KSTGP6",
+    "url": "https://www.dropbox.com/scl/fi/5w938e6dbydxq692tuvmo/jp5_udp_1195.ovpn?rlkey=ph654t3clzfuizdoqlsen53ex&dl=1",
+    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+  },
+{
+   "condition": "true",
+    "title": "KSTGP7",
+    "url": "https://www.dropbox.com/scl/fi/lxll34teuuyxmzfw35anc/ko_udp_1195.ovpn?rlkey=daev0wnklk0x9p6ppd1540mj0&dl=1",
+    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+  },
+{
+   "condition": "true",
+    "title": "KSTGP8",
+    "url": "https://www.dropbox.com/scl/fi/87hm8efrjoftb0335vdpk/thai_udp_1301.ovpn?rlkey=g4i0cnuy6xklprhq0ty35ojiu&dl=1",
+    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+  },
+{
+   "condition": "true",
+    "title": "KSTGP9",
+    "url": "https://www.dropbox.com/scl/fi/r92m5432ukme55xwqygyc/usa_udp_1888.ovpn?rlkey=f8v3ofzosmmk782upvz5w0bwl&dl=1",
+    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
   }
 ]
