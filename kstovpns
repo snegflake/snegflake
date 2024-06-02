@@ -1,56 +1,56 @@
 [
 {
     "condition": "true",
-    "title": "KSTGP1",
-    "url": "https://www.dropbox.com/scl/fi/eiekxcuyk8j6c91gfzsi4/japan_tcp_443.ovpn?rlkey=j04lfvxsunum7zmsocpbjfjk2&dl=1",
-    "country_icon": "https://www.dropbox.com/s/b011xuy8rnb3xdw/jpn.png?dl=1"
+    "title": "KST_ပထမ",
+    "url": "https://www.dropbox.com/scl/fi/zlxyhfaa0fzt5d6lqcl8a/61.203.102.238_udp_1232.ovpn?rlkey=8rz6wyuydpvq4ko854k96sgs2&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
     "condition": "true",
-    "title": "KSTGP2",
-    "url": "https://www.dropbox.com/scl/fi/vsgp6uov9iluqx66s05y4/japan_udp_1195-1.ovpn?rlkey=0l595un5pyr7z226x0ksvy78q&dl=1",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1fcNvwW-acmBfeV8BtSljCo53wnLOLaZV"
+    "title": "KST_ဒုတိယ",
+    "url": "https://www.dropbox.com/scl/fi/cq34mmgkhvseg16zjcztf/106.174.14.35_udp_1467.ovpn?rlkey=lckzfd2zy14l2fs9gjk0pp6yr&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
 },
  {
 "condition": "true",
-    "title": "KSTGP3",
-    "url": "https://www.dropbox.com/scl/fi/gib1qw2d5uzmgupvjbt6j/japan_udp_1195.ovpn?rlkey=295hrrgnxg3n3wl84817hu5s4&dl=1",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1feQOOEGud9G-CUJq4GMkZA2OHYfvc-PS"
+    "title": "KST_တတိယ",
+    "url": "https://www.dropbox.com/scl/fi/e6ogq9n90t77vtpzardmk/118.154.101.175_udp_1664.ovpn?rlkey=sdcnqwile50htn9j0iov3gwfo&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP4",
-    "url": "https://www.dropbox.com/scl/fi/d2d8mlul037t1rehra8v9/jp_udp_1195.ovpn?rlkey=j06ttm5y6bb097t0kjqdcawwa&dl=1",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1ffqvAl039gwhGFJd_94drnVo_8YdhvEa"
+    "title": "KST_စတုတ္ထ",
+    "url": "https://www.dropbox.com/scl/fi/pw4cg89ba5tsfp3fk8mvl/118.240.149.174_udp_1195.ovpn?rlkey=6fa3aklic3nai578bshndnpbw&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP5",
-    "url": "https://www.dropbox.com/scl/fi/krs32lzgh38v77ui9ursc/jps_udp_1195.ovpn?rlkey=622jyu6m25qh3noj939nh6q6h&dl=1",
-    "country_icon": "https://drive.google.com/uc?export=download&id=1fhDah4wmPNpY7gxfhA-XUvyBCARcBs7p"
+    "title": "KST_ပဉ္စမ",
+    "url": "https://www.dropbox.com/scl/fi/133drglfdyhe26rcyjfsn/126.75.190.184_udp_1221.ovpn?rlkey=5zkb75d692gnh6gll3f7b4ldp&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP6",
-    "url": "https://www.dropbox.com/scl/fi/5w938e6dbydxq692tuvmo/jp5_udp_1195.ovpn?rlkey=ph654t3clzfuizdoqlsen53ex&dl=1",
-    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+    "title": "KST_ဆဌမ",
+    "url": "https://www.dropbox.com/scl/fi/3d888cox922mq9704bto7/131.147.166.141_udp_1195.ovpn?rlkey=bbb909cq7nku86o5rd8nxybzs&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP7",
-    "url": "https://www.dropbox.com/scl/fi/lxll34teuuyxmzfw35anc/ko_udp_1195.ovpn?rlkey=daev0wnklk0x9p6ppd1540mj0&dl=1",
-    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+    "title": "KST_သတ္တမ",
+    "url": "https://www.dropbox.com/scl/fi/joua1vpwnz8nslgpqrvpj/153.175.126.40_udp_1825.ovpn?rlkey=jsviyrkdvyz6rpl6922ropnyt&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP8",
-    "url": "https://www.dropbox.com/scl/fi/87hm8efrjoftb0335vdpk/thai_udp_1301.ovpn?rlkey=g4i0cnuy6xklprhq0ty35ojiu&dl=1",
-    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+    "title": "KST_အဌမ",
+    "url": "https://www.dropbox.com/scl/fi/nwvy50xtfe8curt7aihzw/180.199.46.161_tcp_1558.ovpn?rlkey=2jludvd9lllb7l5xfi78ra2m4&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
    "condition": "true",
-    "title": "KSTGP9",
-    "url": "https://www.dropbox.com/scl/fi/r92m5432ukme55xwqygyc/usa_udp_1888.ovpn?rlkey=f8v3ofzosmmk782upvz5w0bwl&dl=1",
-    "country_icon": "https://www.dropbox.com/s/bg5bv683vu8nrwj/mm.png?dl=1"
+    "title": "KST_နဝမ",
+    "url": "https://www.dropbox.com/scl/fi/p3ay94jx3iio58xr4tjlc/219.100.37.96_tcp_443.ovpn?rlkey=zq6lu149zcvojecz0g0x5wrxm&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   }
 ]
