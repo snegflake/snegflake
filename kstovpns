@@ -42,15 +42,46 @@
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
-   "condition": "false",
+   "condition": "true",
     "title": "KST_အဌမ",
     "url": "https://www.dropbox.com/scl/fi/yc33u80mxnlw4wmp7fbb8/124.219.211.107_udp_1655.ovpn?rlkey=nvb6njfjuz6iv8c760ehczdnj&dl=1",
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   },
 {
-   "condition": "false",
+   "condition": "true",
     "title": "KST_နဝမ",
     "url": "https://www.dropbox.com/scl/fi/yf5tt60gzlbb3ye4y711t/122.19.69.190_udp_1551.ovpn?rlkey=dt47it6x54n8j2j152ax3nvk3&dl=1",
     "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+   "condition": "false",
+    "title": "KST_တစ်",
+    "url": "https://www.dropbox.com/scl/fi/2umvakl4xhultvao6vx2v/126.88.117.37_udp_1896.ovpn?rlkey=y0jlkpyr8s8cahc6zeygmr0br&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+   "condition": "false",
+    "title": "KST_နှစ်",
+    "url": "https://www.dropbox.com/scl/fi/mqr2hf8ctup62y2sbdqj6/160.86.72.214_udp_1902.ovpn?rlkey=wkeh2mtxm24i6x7xunp6kwc4u&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+   "condition": "false",
+    "title": "KST_သုံး",
+    "url": "https://www.dropbox.com/scl/fi/fyllutzhbujveyhvlo69n/60.74.239.247_udp_1348.ovpn?rlkey=65nf84kjejg488crp650sw83y&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+   "condition": "false",
+    "title": "KST_လေး",
+    "url": "https://www.dropbox.com/scl/fi/htkbyegb7sefvgbwrq10f/60.95.140.84_udp_1820.ovpn?rlkey=utp7gnea6feejtymj1zpdrxgd&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
+  },
+{
+   "condition": "false",
+    "title": "KST_ငါး",
+    "url": "https://www.dropbox.com/scl/fi/gk5n8v4kcs8823qd6pcg1/219.121.99.2_udp_1195.ovpn?rlkey=xz3slcrbwn5cmezxob9qqfocc&dl=1",
+    "country_icon": "https://www.dropbox.com/s/39i73xua8w9ox3y/kstvipicon.png?dl=1"
   }
+
 ]
